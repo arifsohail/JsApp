@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "220dp"
+        "value": "26.25%"
     },
     "_left_": {
         "type": "string",
@@ -36,7 +36,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "GrayGradient"
+        "GrayGradient",
+        "LogoContainer"
     ],
     "clipbounds": true,
     "containerweight": 100,

@@ -30,7 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "FlexContainer0dea07a53572f4b"
+        "RegistrationFlex"
     ],
     "containerweight": 100,
     "controllerInfo": {
