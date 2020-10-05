@@ -104,4 +104,4 @@ testresources/Jasmine/\*.js
 /controllers/**/*ControllerActions.js
 /userwidgets/**/modules/require/*ControllerActions.js
 projectProperties.json
-
+/nativebindings
