@@ -36,7 +36,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "BlueImage"
+        "BlueImage",
+        "FlexContainer0b2ea0d2e44c149"
     ],
     "clipbounds": true,
     "containerweight": 100,

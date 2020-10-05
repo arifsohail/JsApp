@@ -254,6 +254,7 @@
     "category": "app",
     "chat": "false",
     "cloud_account_guid": "26c6e6bc-04b9-42c9-ae11-9ed276a69a3e",
+    "cloud_env_GUID": "04138f6b-59a7-4ff8-a46f-fd338da50139",
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
@@ -644,9 +645,11 @@
     "read_device_identifying_information": "false",
     "referenceWidth": "375",
     "registerForDeepLink": {
+        "androidwear": false,
         "desktop": false,
         "mobile": false,
-        "tablet": false
+        "tablet": false,
+        "watch": false
     },
     "remoteSystem": "false",
     "removableStorage": "false",
