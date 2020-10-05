@@ -103,4 +103,5 @@ testresources/Jasmine/\*.js
 # Every controller file is accompanied by an auto-generated controller actions file.
 /controllers/**/*ControllerActions.js
 /userwidgets/**/modules/require/*ControllerActions.js
+projectProperties.json
 
