@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s32ea044f37647e99583c0329c98e528",
-    "_text_": "Have an account? Login here.",
+    "_skin_": "s4734d5a14fe425391c9b92c5ec96b6d",
+    "_text_": "Enter the 4-digit OTP:",
     "_top_": {
         "type": "string",
-        "value": "-3dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -42,8 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "LoginLinkText",
-    "ide_onTouchStart": "AS_Label_d2a095ff61b34813976ac20b908ee8ee",
+    "id": "LabelText",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,9 +56,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cf09cb27ff44430c8aa97c326072d418",
+    "kuid": "gebb88808f604c65a33ef30c534cb1f5",
     "name": "kony.ui.Label",
-    "parent": "LoginLinkFlex",
+    "parent": "OTPFieldLabel",
     "pf": "RegistrationForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

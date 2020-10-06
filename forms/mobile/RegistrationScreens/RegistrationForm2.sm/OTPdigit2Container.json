@@ -1,13 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
+    "_height_": {
         "type": "string",
-        "value": "95%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "25%"
     },
     "_margin_": [
         0,
@@ -23,32 +23,32 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
+    "_skin_": "s293d4ed82684f3d992204c5f39e4593",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "25%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "LoginLinkText"
+        "OTPDigit2"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "LoginLinkFlex",
+    "id": "OTPdigit2Container",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a5ca008f4b614ea78c514fd01cd2e8a0",
+    "kuid": "ide7f1b366ef481f8a2428f6e6db02da",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationContainer",
+    "parent": "OTPFieldsContainer",
     "pf": "RegistrationForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

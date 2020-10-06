@@ -1,13 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
+    "_height_": {
         "type": "string",
-        "value": "0.00%"
+        "value": "120dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "6%"
     },
     "_margin_": [
         0,
@@ -25,37 +25,33 @@
     "_percent_": true,
     "_right_": {
         "type": "string",
-        "value": "0%"
+        "value": "6%"
     },
     "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
     "_top_": {
         "type": "string",
-        "value": "188dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
+        "value": "208dp"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "StepBottomContainer",
-        "OtpSentTextContainer",
-        "OTPFieldLabel",
-        "OTPFieldsContainer"
+        "OTPdigit1Container",
+        "OTPdigit2Container",
+        "OTPdigit3Container",
+        "OTPdigit4Container"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "RegistrationContainer",
+    "id": "OTPFieldsContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "be8eb08406cd469a8a464655ab40fb6d",
+    "kuid": "j1312a004e044d628633c8162c505ca6",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationForm2",
+    "parent": "RegistrationContainer",
     "pf": "RegistrationForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

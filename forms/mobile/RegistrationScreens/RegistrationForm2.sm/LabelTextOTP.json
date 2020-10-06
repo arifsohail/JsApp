@@ -22,8 +22,8 @@
         0,
         0
     ],
-    "_skin_": "s5096ba44869416eae63e673b6011572",
-    "_text_": "Step 2 of 4",
+    "_skin_": "sa6ef6b3331347c986043c464d0cacb1",
+    "_text_": "We’ve sent a 4-digit OTP to your mobile and email address.",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "StepTextLabel",
+    "id": "LabelTextOTP",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,9 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c540861b90e44f81ad2b2fd0b6aa409b",
+    "kuid": "ec7537a44f8248589ca4b0e203e54325",
     "name": "kony.ui.Label",
-    "parent": "TextContainer",
+    "paddinginpixel": false,
+    "parent": "OtpSentTextContainer",
     "pf": "RegistrationForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
