@@ -3,11 +3,15 @@
     "__parentReadjusting__": false,
     "_bottom_": {
         "type": "string",
-        "value": "0.00%"
+        "value": "0%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
     },
     "_left_": {
         "type": "string",
-        "value": "-0.04%"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -25,13 +29,9 @@
     "_percent_": true,
     "_right_": {
         "type": "string",
-        "value": "0%"
+        "value": "0dp"
     },
     "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
-    "_top_": {
-        "type": "string",
-        "value": "188dp"
-    },
     "_width_": {
         "type": "string",
         "value": "100%"
@@ -40,23 +40,19 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "TypeIdContainer",
-        "LoginLinkFlex",
-        "ValueFieldFlex",
-        "NextButtonContainer",
-        "StepBottomContainer"
+        "TextContainer"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "RegistrationContainer",
+    "id": "StepBottomContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "dc05c2458d2f457696056cfe6033672a",
+    "kuid": "hb3c457e56544142b070247888288899",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationFlex",
+    "parent": "RegistrationContainer",
     "pf": "RegistrationForm1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
