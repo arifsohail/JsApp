@@ -1,13 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
+    "_bottom_": {
         "type": "string",
-        "value": "60dp"
+        "value": "0dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "25%"
     },
     "_margin_": [
         0,
@@ -26,33 +26,29 @@
     "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
     "_top_": {
         "type": "string",
-        "value": "56dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100.00%"
+        "value": "25%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "UserIdTextBox"
+        "TxtFld4BoxPin2"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "UserIdFlex",
+    "id": "Container4PinBox2",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e9abceab8e1d435182169a286caeff77",
+    "kuid": "ff5188624bee4e7f910ad76242ad229c",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "LoginContainer",
-    "pf": "LoginForm",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "parent": "PinBx4Pins",
+    "pf": "userwidgetmodel",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

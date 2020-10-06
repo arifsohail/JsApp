@@ -3,8 +3,8 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s32ea044f37647e99583c0329c98e528",
-    "_text_": "Forgot Username and/or Password",
+    "_skin_": "s5096ba44869416eae63e673b6011572",
+    "_text_": "Step 2 of 4",
     "_top_": {
         "type": "string",
-        "value": "35dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -42,8 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "ForgotLinkText",
-    "ide_onTouchStart": "AS_Label_d2a095ff61b34813976ac20b908ee8ee",
+    "id": "StepTextLabel",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fb463834e11945a9bbf816daab694866",
+    "kuid": "ea5f4226a8d240f1a56d196e63535d8b",
     "name": "kony.ui.Label",
-    "parent": "ForgotLinkFlex",
-    "pf": "LoginForm",
+    "parent": "TextContainer",
+    "pf": "LoginForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

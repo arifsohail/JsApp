@@ -3,8 +3,8 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s32ea044f37647e99583c0329c98e528",
-    "_text_": "Forgot Username and/or Password",
+    "_skin_": "sa6ef6b3331347c986043c464d0cacb1",
+    "_text_": "We’ve sent a 4-digit OTP to your mobile and email address.",
     "_top_": {
         "type": "string",
-        "value": "35dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -42,8 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "ForgotLinkText",
-    "ide_onTouchStart": "AS_Label_d2a095ff61b34813976ac20b908ee8ee",
+    "id": "LabelTextOTP",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,10 +56,11 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fb463834e11945a9bbf816daab694866",
+    "kuid": "ca8706af4ff44195aee5a3c82c9a82d0",
     "name": "kony.ui.Label",
-    "parent": "ForgotLinkFlex",
-    "pf": "LoginForm",
+    "paddinginpixel": false,
+    "parent": "OtpSentTextContainer",
+    "pf": "LoginForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

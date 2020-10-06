@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "60dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -23,33 +23,33 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
+    "_skin_": "s2cb391637884bc8b18aef9f05f94757",
     "_top_": {
         "type": "string",
-        "value": "56dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100.00%"
+        "value": "25%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "UserIdTextBox"
+        "OTPDigit1"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "UserIdFlex",
+    "id": "OTPdigit1Container",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e9abceab8e1d435182169a286caeff77",
+    "kuid": "d5de33b0401d47099ba0bef017ac5e73",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "LoginContainer",
-    "pf": "LoginForm",
+    "parent": "OTPFieldsContainer",
+    "pf": "LoginForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

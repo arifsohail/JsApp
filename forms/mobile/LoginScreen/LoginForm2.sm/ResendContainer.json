@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "60dp"
+        "value": "27dp"
     },
     "_left_": {
         "type": "string",
@@ -26,30 +26,30 @@
     "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
     "_top_": {
         "type": "string",
-        "value": "56dp"
+        "value": "362dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100.00%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "UserIdTextBox"
+        "ResendText"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "UserIdFlex",
+    "id": "ResendContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e9abceab8e1d435182169a286caeff77",
+    "kuid": "g13732804d47498890a76978cd6dc6d3",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "LoginContainer",
-    "pf": "LoginForm",
+    "pf": "LoginForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

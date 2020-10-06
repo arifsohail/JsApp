@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8d45adb2bac40598588acfe44fbe0b8",
+    "_text_": "Continue",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {}
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "pressedSkin": "s6bf3ddcfca34859b5f72ce78d0be58f"
+    },
+    "displaytext": true,
+    "focusskin": "s3d1f038e0524aeab0855dc64c98273f",
+    "id": "ContinueBtn",
+    "ide_onClick": "AS_Button_d4f8551e443b49e6b63848122d25ab4f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f1eb864f1ca04ff8be79eaa3dcdf54d6",
+    "name": "kony.ui.Button",
+    "parent": "ContinueBtnFlex",
+    "pf": "LoginForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -2,13 +2,13 @@
     "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
+    "_bottom_": {
         "type": "string",
-        "value": "100%"
+        "value": "5dp"
     },
     "_left_": {
         "type": "string",
-        "value": "6.97%"
+        "value": "5dp"
     },
     "_margin_": [
         0,
@@ -17,24 +17,22 @@
         0
     ],
     "_padding_": [
-        3,
+        0,
         0,
         0,
         0
     ],
-    "_placeholder_": "Enter Password",
+    "_placeholder_": "4",
     "_right_": {
         "type": "string",
-        "value": "6.97%"
+        "value": "5dp"
     },
-    "_skin_": "s3b0298e204446048b7c2ea4bb9f4c6f",
+    "_skin_": "s94d9fe6d94d45539942d137306ca205",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "0.8200000000000003%"
+        "value": "5dp"
     },
-    "activeNativeBorderCornerRadiusControl": "centerControl",
-    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -43,23 +41,30 @@
     "containerheight": "",
     "containerheightmode": 1,
     "containerweight": 100,
-    "contentalignment": 4,
-    "focusskin": "scc058751aa54c539183d599657fae52",
-    "id": "PasswordTextBox",
+    "contentalignment": 5,
+    "focusskin": "s2259f40677340ebb47075b52525668d",
+    "id": "TxtFld4BoxPin4",
+    "ide_onTextChange": "AS_TextField_i7c34f01e17d4573860dd3b0c294c9aa",
     "info": null,
-    "iscustomlayout": false,
+    "iphone": {
+        "psp": {
+            "showClearButton": false
+        }
+    },
     "isvisible": true,
+    "keyboardstyle": "digitpad",
     "keyboardtype": "A",
-    "kuid": "a9014cd1d85640a6939e8966558b0b91",
-    "mode": "A",
+    "kuid": "haadce43044a4829a19881984e7681d2",
+    "maxtextlength": 1,
+    "mode": "N",
     "name": "kony.ui.TextBox2",
-    "parent": "PasswordFlex",
-    "pf": "LoginForm",
-    "placeholderskin": "s33c35e5fc20410eaf2ed742efb03b95",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
+    "paddinginpixel": false,
+    "parent": "Container4PinBox4",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "s48df11f0999458a8e765d29dedf4154",
     "securetextentry": false,
-    "textinputmode": "A",
+    "showclearbutton": false,
+    "textinputmode": "N",
     "tooltip": "",
     "viewtype": "default",
     "wType": "TextField",

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "25dp"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s32ea044f37647e99583c0329c98e528",
-    "_text_": "Forgot Username and/or Password",
+    "_skin_": "sf755dcda8944a4189becb1189ffc943",
+    "_text_": "Log In",
     "_top_": {
-        "type": "string",
-        "value": "35dp"
+        "type": "number",
+        "value": "0"
     },
     "_width_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -42,8 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "ForgotLinkText",
-    "ide_onTouchStart": "AS_Label_d2a095ff61b34813976ac20b908ee8ee",
+    "id": "Labelvalue",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fb463834e11945a9bbf816daab694866",
+    "kuid": "e0f041c52d46480aa0f6a1e1c7522895",
     "name": "kony.ui.Label",
-    "parent": "ForgotLinkFlex",
-    "pf": "LoginForm",
+    "parent": "LoginLabelFlex",
+    "pf": "LoginForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

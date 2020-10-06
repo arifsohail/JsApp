@@ -16,7 +16,8 @@
         "children": [
             "j4f172aac66f49e686ced970d185b347",
             "c29e489f7b9749cdab2d8ddd2f96264e",
-            "b36c203a403a4e2cb6ec0a0b570352b3"
+            "b36c203a403a4e2cb6ec0a0b570352b3",
+            "c1b1b98253c04535b538eca7194214dc"
         ],
         "kuid": "a3176b0416ad43f7a15e06cbdf7ee1f6",
         "name": "Tablet",
@@ -38,6 +39,13 @@
         "name": "Test Plans",
         "parent": "ea5dedc70de647b0ab474363c6ea3f17",
         "type": "D"
+    },
+    "ac8745ea77c84648a58f5bd84fad8e1e": {
+        "extension": "js",
+        "kuid": "ac8745ea77c84648a58f5bd84fad8e1e",
+        "name": "automationStartup.js",
+        "parent": "ea5dedc70de647b0ab474363c6ea3f17",
+        "type": "F"
     },
     "b36c203a403a4e2cb6ec0a0b570352b3": {
         "children": [],
@@ -63,6 +71,13 @@
         "name": "Common",
         "parent": "f4004f81edf84171b24937053d7108d0",
         "type": "D"
+    },
+    "c1b1b98253c04535b538eca7194214dc": {
+        "extension": "js",
+        "kuid": "c1b1b98253c04535b538eca7194214dc",
+        "name": "automationStartup.js",
+        "parent": "a3176b0416ad43f7a15e06cbdf7ee1f6",
+        "type": "F"
     },
     "c29e489f7b9749cdab2d8ddd2f96264e": {
         "children": [
@@ -105,7 +120,8 @@
         "children": [
             "e2c3d5c8ca9942eda30a8efccae3845c",
             "b9860766fc3b4da6bb56dded88a3caf8",
-            "h4b50f889c5d496b81c89723fc133404"
+            "h4b50f889c5d496b81c89723fc133404",
+            "j340c550ca4242699c91dbf043438179"
         ],
         "kuid": "e3276823ad7e4197871228d2c8b710db",
         "name": "Desktop",
@@ -130,7 +146,8 @@
         "children": [
             "d4042626405f4254a74facf2fdab1ba3",
             "a6c13d7e5b1f4d4fa9945a897afe9b05",
-            "feff260252b84957b46055596a2d7d08"
+            "feff260252b84957b46055596a2d7d08",
+            "ac8745ea77c84648a58f5bd84fad8e1e"
         ],
         "kuid": "ea5dedc70de647b0ab474363c6ea3f17",
         "name": "Mobile",
@@ -185,6 +202,13 @@
         "kuid": "ie80d0d81cd5464db9fbe3b5768a936a",
         "name": "testresources",
         "type": "D"
+    },
+    "j340c550ca4242699c91dbf043438179": {
+        "extension": "js",
+        "kuid": "j340c550ca4242699c91dbf043438179",
+        "name": "automationStartup.js",
+        "parent": "e3276823ad7e4197871228d2c8b710db",
+        "type": "F"
     },
     "j4f172aac66f49e686ced970d185b347": {
         "children": [],
