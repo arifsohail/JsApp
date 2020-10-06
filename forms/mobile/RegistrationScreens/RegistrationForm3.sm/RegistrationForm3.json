@@ -31,24 +31,24 @@
     "canUpdateUI": true,
     "children": [
         "BackgroundBanner",
-        "RegistrationContainer",
-        "RegistrationLabelFlex"
+        "RegistrationLabelFlex",
+        "FlexContainer0eeba71bde49f42"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "RegistrationForm2Controller"
+            "name": "RegistrationForm3Controller"
         }
     },
     "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "Pixel2",
+    "device": "GalaxyS8Plus",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "RegistrationForm2",
+    "id": "RegistrationForm3",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -66,7 +66,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "d200c507eb674713b74cd25c5a464e1c",
+                "kuid": "d71a6977032344059a2594d0b22afca2",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -77,7 +77,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "e68f0a50f5344a5c93bf2b5cc3ab2d55",
+                        "kuid": "cc5345625ce847f797977da2696537fc",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -94,7 +94,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "e722286e7fc24b8e948775de14e9e55d",
+    "kuid": "e793efb01c404e318471dfcb11ebafbc",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
@@ -105,7 +105,7 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_Pixel2",
+    "shellCSS": "and_GalaxyS8Plus",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {
