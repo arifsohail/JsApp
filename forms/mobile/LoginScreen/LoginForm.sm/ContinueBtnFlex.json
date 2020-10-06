@@ -40,7 +40,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "ContinueBtn"
+        "NextButton"
     ],
     "clipbounds": true,
     "containerweight": 100,

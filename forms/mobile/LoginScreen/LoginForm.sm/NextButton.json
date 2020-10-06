@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "sa4747215981442ab62375a72caf5c06",
+    "_skin_": "s8d45adb2bac40598588acfe44fbe0b8",
     "_text_": "Continue",
     "_top_": {
         "type": "string",
@@ -39,15 +39,16 @@
     "containerweight": 100,
     "contentalignment": 5,
     "disabledSkins": {
-        "pressedSkin": "s4373ad5de564c83a619987dfeaede71"
+        "pressedSkin": "s6bf3ddcfca34859b5f72ce78d0be58f"
     },
     "displaytext": true,
-    "focusskin": "sf1365771ebe462e8d2661f79b0f8759",
-    "id": "ContinueBtn",
+    "focusskin": "s3d1f038e0524aeab0855dc64c98273f",
+    "id": "NextButton",
+    "ide_onClick": "AS_Button_f7712a9450d44a57a56cc172a31024cd",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cb6da2752aa147f58733dfadcf708c3f",
+    "kuid": "f1eb864f1ca04ff8be79eaa3dcdf54d6",
     "name": "kony.ui.Button",
     "parent": "ContinueBtnFlex",
     "pf": "LoginForm",
