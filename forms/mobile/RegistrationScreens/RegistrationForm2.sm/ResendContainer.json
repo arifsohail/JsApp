@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "27dp"
     },
     "_left_": {
-        "type": "number",
-        "value": "0"
+        "type": "string",
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -26,7 +26,7 @@
     "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "362dp"
     },
     "_width_": {
         "type": "string",
@@ -36,22 +36,20 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "BackgroundBanner",
-        "RegistrationContainer",
-        "RegistrationLabelFlex"
+        "ResendText"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "RegistrationFlex",
+    "id": "ResendContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cff04c592fea4561b99b69b28192dd9a",
+    "kuid": "b1f139a045f54f52ba06d4eabc79ff96",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationForm1",
-    "pf": "RegistrationForm1",
+    "parent": "RegistrationContainer",
+    "pf": "RegistrationForm2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
