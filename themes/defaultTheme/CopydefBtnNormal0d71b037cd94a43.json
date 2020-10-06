@@ -5,8 +5,8 @@
   "androidwearos": {
     "font_name": "default"
   },
-  "background_color": "4b88f1ff",
-  "bg_type": "one",
+  "background_image": "blue_background.png",
+  "bg_type": "image",
   "border_color": "ffffffff",
   "border_style": "plain",
   "border_type": 0,
@@ -25,11 +25,11 @@
   "iphone": {
     "font_name": "System"
   },
-  "isDefaultSkin": true,
+  "isDefaultSkin": false,
   "kiosk": {
     "font_name": "None"
   },
-  "kuid": "s2f897f738434fa6a2a84b1e725a20be",
+  "kuid": "s8d45adb2bac40598588acfe44fbe0b8",
   "spaan": {
     "font_name": "Helvetica"
   },
