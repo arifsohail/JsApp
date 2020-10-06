@@ -1,13 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
+    "_height_": {
         "type": "string",
-        "value": "0.00%"
+        "value": "60dp"
     },
     "_left_": {
         "type": "string",
-        "value": "-0.04%"
+        "value": "6.67%"
     },
     "_margin_": [
         0,
@@ -25,37 +25,30 @@
     "_percent_": true,
     "_right_": {
         "type": "string",
-        "value": "0%"
+        "value": "6.97%"
     },
-    "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
+    "_skin_": "sea548c9174f47ca96c277fd470de0c1",
     "_top_": {
         "type": "string",
-        "value": "188dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
+        "value": "231dp"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "TypeIdContainer",
-        "LoginLinkFlex",
-        "ValueFieldFlex",
-        "NextButtonContainer"
+        "NextButton"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "RegistrationContainer",
+    "id": "NextButtonContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "dc05c2458d2f457696056cfe6033672a",
+    "kuid": "iad7e277b6964c7f9bee46106f64e2f0",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationFlex",
+    "parent": "RegistrationContainer",
     "pf": "RegistrationForm1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
