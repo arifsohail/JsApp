@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "-0.50%"
+        "value": "-0.04%"
     },
     "_margin_": [
         0,
@@ -40,8 +40,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "LoginLinkFlex",
-        "TypeIdContainer"
+        "TypeIdContainer",
+        "LoginLinkFlex"
     ],
     "clipbounds": true,
     "containerweight": 100,

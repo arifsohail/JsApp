@@ -48,7 +48,7 @@
     "kuid": "f62308c86336481198d8dcf13a9542ae",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "FlexContainer0e09f58c0f09a4b",
+    "parent": "LabelTopFlex",
     "pf": "RegistrationForm1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
