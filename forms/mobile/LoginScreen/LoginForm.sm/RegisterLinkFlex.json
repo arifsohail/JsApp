@@ -1,9 +1,9 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
+    "_bottom_": {
         "type": "string",
-        "value": "100%"
+        "value": "95%"
     },
     "_left_": {
         "type": "string",
@@ -36,21 +36,19 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "BackgroundBanner",
-        "LoginLabelFlex",
-        "LoginContainer"
+        "RegisterLinkText"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "LoginFlex",
+    "id": "RegisterLinkFlex",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f1b5e466e9f54d5981d703663cf2b6a7",
+    "kuid": "ad624f63b82f4ee6bfa01b71431adfb5",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "LoginForm",
+    "parent": "LoginContainer",
     "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
