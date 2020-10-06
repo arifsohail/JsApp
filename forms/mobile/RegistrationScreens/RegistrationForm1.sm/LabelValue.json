@@ -3,12 +3,12 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "25dp"
     },
     "_margin_": [
         1,
@@ -25,12 +25,12 @@
     "_skin_": "sf755dcda8944a4189becb1189ffc943",
     "_text_": "Register",
     "_top_": {
-        "type": "string",
-        "value": "0dp"
+        "type": "number",
+        "value": "0"
     },
     "_width_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "LabelValue",
+    "id": "Labelvalue",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,7 +56,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ab89d1b808d247cf84c988e3c30c2005",
+    "kuid": "f20c8eeefb104d1da962117f9d037664",
     "name": "kony.ui.Label",
     "parent": "RegistrationLabelFlex",
     "pf": "RegistrationForm1",
