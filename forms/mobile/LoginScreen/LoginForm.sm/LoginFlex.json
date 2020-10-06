@@ -1,8 +1,6 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_children_": [],
     "_height_": {
         "type": "string",
         "value": "100%"
@@ -17,7 +15,7 @@
         0,
         0
     ],
-    "_orientation_": 1,
+    "_orientation_": 6,
     "_padding_": [
         0,
         0,
@@ -34,31 +32,30 @@
         "type": "string",
         "value": "100%"
     },
+    "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "children": [
+        "BackgroundBanner"
+    ],
     "clipbounds": true,
-    "containerweight": 0,
-    "data": {},
+    "containerweight": 100,
     "enablescrolling": true,
-    "id": "BackgroundBanner",
+    "id": "LoginFlex",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d088f9d30b7d464794eee4e1964a6286",
+    "kuid": "f1b5e466e9f54d5981d703663cf2b6a7",
     "layouttype": 2,
-    "masterType": 1,
-    "name": "kony.ui.UserWidgetInstance",
-    "parent": "RegistrationFlex",
-    "pf": "RegistrationForm1",
+    "name": "kony.ui.FlexContainer",
+    "parent": "LoginForm",
+    "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "sourceUserWidget": "d7413094b08342d8881c8756f43506f7",
-    "vizProps": {
-        "lock": false
-    },
-    "wType": "UserWidgetInstance",
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
     "zindex": 1
 }
