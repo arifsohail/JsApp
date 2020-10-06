@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "4.83%"
+        "value": "6.97%"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
     "_placeholder_": "Enter User ID",
     "_right_": {
         "type": "string",
-        "value": "24%"
+        "value": "6.97%"
     },
     "_skin_": "s3b0298e204446048b7c2ea4bb9f4c6f",
     "_text_": "",
@@ -33,10 +33,7 @@
         "type": "string",
         "value": "-0.08%"
     },
-    "_width_": {
-        "type": "string",
-        "value": "90%"
-    },
+    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -46,7 +43,7 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "sf970694012c415c82bd74d058d0f5ca",
+    "focusskin": "scf410b2fdc44bb6bd0fa7e4a3cf53dc",
     "id": "UserIdTextBox",
     "info": null,
     "iscustomlayout": false,
@@ -57,7 +54,7 @@
     "name": "kony.ui.TextBox2",
     "parent": "UserIdFlex",
     "pf": "LoginForm",
-    "placeholderskin": "sc27de04e31848448f305b55447f4013",
+    "placeholderskin": "s24840cfa7e24361903b8a5d07c832fb",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

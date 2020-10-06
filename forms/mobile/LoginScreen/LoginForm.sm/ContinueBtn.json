@@ -1,4 +1,5 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
@@ -10,20 +11,19 @@
         "value": "0dp"
     },
     "_margin_": [
-        0,
-        0,
-        0,
-        0
+        6,
+        6,
+        6,
+        6
     ],
-    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_percent_": true,
-    "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
+    "_skin_": "sa4747215981442ab62375a72caf5c06",
+    "_text_": "Continue",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -32,33 +32,27 @@
         "type": "string",
         "value": "100%"
     },
-    "allboxes": [],
-    "autogrowmode": 0,
+    "android": {
+        "psp": {}
+    },
     "canUpdateUI": true,
-    "children": [
-        "BackgroundBanner",
-        "LoginLabelFlex",
-        "LoginContainer",
-        "Divider"
-    ],
-    "clipbounds": true,
     "containerweight": 100,
-    "enablescrolling": true,
-    "id": "LoginFlex",
+    "contentalignment": 5,
+    "disabledSkins": {
+        "pressedSkin": "s4373ad5de564c83a619987dfeaede71"
+    },
+    "displaytext": true,
+    "focusskin": "sf1365771ebe462e8d2661f79b0f8759",
+    "id": "ContinueBtn",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f1b5e466e9f54d5981d703663cf2b6a7",
-    "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "LoginForm",
+    "kuid": "cb6da2752aa147f58733dfadcf708c3f",
+    "name": "kony.ui.Button",
+    "parent": "ContinueBtnFlex",
     "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
-    "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
+    "wType": "Button",
     "zindex": 1
 }
