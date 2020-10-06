@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "4.83%"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -22,22 +22,18 @@
         0,
         0
     ],
-    "_placeholder_": "Enter Password",
-    "_right_": {
-        "type": "string",
-        "value": "24%"
-    },
-    "_skin_": "s3b0298e204446048b7c2ea4bb9f4c6f",
+    "_placeholder_": "Value",
+    "_skin_": "s816ac2342474a8f844c6c9b7e120db5",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "-0.08%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "90%"
+        "value": "100%"
     },
-    "activeNativeBorderCornerRadiusControl": "centerControl",
+    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -47,18 +43,18 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "sf970694012c415c82bd74d058d0f5ca",
-    "id": "PasswordTextBox",
+    "focusskin": "s74a37e16cf341f790db3bd3136705d6",
+    "id": "ValueField",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "a9014cd1d85640a6939e8966558b0b91",
+    "kuid": "a660b7a70b014afea3bd16ee58c55daa",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "parent": "PasswordFlex",
-    "pf": "LoginForm",
-    "placeholderskin": "sc27de04e31848448f305b55447f4013",
+    "parent": "ValueFieldFlex",
+    "pf": "RegistrationForm1",
+    "placeholderskin": "s80dbb7db80c486c8393ddb497094398",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

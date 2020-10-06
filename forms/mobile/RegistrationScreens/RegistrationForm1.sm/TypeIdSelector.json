@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_placeholder_": "Please Select",
+    "_placeholder_": "Select ID Type",
     "_skin_": "s79511c3fdd24c50b8d4fcbbbe705d62",
     "_top_": {
         "type": "string",
@@ -34,8 +34,13 @@
     },
     "android": {
         "nativeListFieldFocusSkin": "s84f6fb9262a421da370d16c50b31ad4",
-        "nativeListFieldSkin": "sdac43eb8fd64994a45c4f46181d4ad8"
+        "nativeListFieldSkin": "sdac43eb8fd64994a45c4f46181d4ad8",
+        "psp": {
+            "applySkinsToPopup": false,
+            "placeholderSkin": "s5161d55d9224b54816d8d4cce0bdd2d"
+        }
     },
+    "applyskinstopopup": false,
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,

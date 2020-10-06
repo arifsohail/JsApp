@@ -41,7 +41,8 @@
     "canUpdateUI": true,
     "children": [
         "TypeIdContainer",
-        "LoginLinkFlex"
+        "LoginLinkFlex",
+        "ValueFieldFlex"
     ],
     "clipbounds": true,
     "containerweight": 100,

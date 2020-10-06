@@ -26,7 +26,7 @@
             "formKUID": "c35f3df6889f470381c6c7d82e58a1b1",
             "mappings": {},
             "mappingsOrder": [],
-            "parentId": null,
+            "parentId": "",
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "LoginScreen",

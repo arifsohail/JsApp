@@ -7,8 +7,7 @@
   },
   "background_color": "ffffffff",
   "bg_type": "one",
-  "border_color": "c7c7c7ff",
-  "border_radius": 15,
+  "border_color": "10469326",
   "border_style": "custom",
   "border_type": 0,
   "border_width": 1,
@@ -30,7 +29,7 @@
   "kiosk": {
     "font_name": "None"
   },
-  "kuid": "s3b0298e204446048b7c2ea4bb9f4c6f",
+  "kuid": "s5161d55d9224b54816d8d4cce0bdd2d",
   "spaan": {
     "font_name": "Helvetica"
   },
@@ -52,7 +51,7 @@
   "tabrcandroid": {
     "font_name": "default"
   },
-  "wType": "TextField",
+  "wType": "ListBox",
   "watchos": {
     "font_name": "System"
   },

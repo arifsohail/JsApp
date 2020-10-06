@@ -38,7 +38,7 @@
     "children": [
         "BackgroundBanner",
         "RegistrationContainer",
-        "LabelTopFlex"
+        "RegistrationLabelFlex"
     ],
     "clipbounds": true,
     "containerweight": 100,
