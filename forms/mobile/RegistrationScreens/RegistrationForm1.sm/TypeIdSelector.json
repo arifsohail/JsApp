@@ -32,9 +32,13 @@
         "type": "string",
         "value": "100%"
     },
+    "android": {},
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
+    "disabledSkins": {
+        "nativeListFieldSkin": "sdac43eb8fd64994a45c4f46181d4ad8"
+    },
     "dropdownimage": "listboxarw.png",
     "focusskin": "s05a76c5241745f780c1e95273f0163b",
     "groupcells": false,
@@ -46,15 +50,15 @@
     "masterdata": [
         [
             "lb1",
-            "Placeholder One"
+            "CNIC"
         ],
         [
             "lb2",
-            "Placeholder Two"
+            "NICOP"
         ],
         [
             "lb3",
-            "Placeholder Three"
+            "Passport"
         ]
     ],
     "name": "kony.ui.ListBox",
@@ -62,7 +66,6 @@
     "pf": "RegistrationForm1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "selectedkey": null,
     "selectedkeys": null,
     "selectedkeyvalue": null,
     "selectedkeyvalues": null,
