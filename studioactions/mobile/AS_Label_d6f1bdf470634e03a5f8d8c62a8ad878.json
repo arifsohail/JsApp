@@ -1,6 +1,6 @@
 {
-    "AS_Label_d2a095ff61b34813976ac20b908ee8ee": {
-        "id": "AS_Label_d2a095ff61b34813976ac20b908ee8ee",
+    "AS_Label_d6f1bdf470634e03a5f8d8c62a8ad878": {
+        "id": "AS_Label_d6f1bdf470634e03a5f8d8c62a8ad878",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -20,16 +20,15 @@
         },
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM__d072a5e0daf149d5b7ffacc016524078",
+            "id": "NAVIGATE_TO_FORM__eb6e97c917944e868c994e41b9b4586f",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "RegistrationForm1",
-            "formKUID": "ca69f715d5d6457097200c547b57bb26",
+            "formId": "LoginForm",
+            "formKUID": "c35f3df6889f470381c6c7d82e58a1b1",
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
-            "callbackType": null,
             "enableMappingEditor": true,
-            "package": "RegistrationScreens",
+            "package": "LoginScreen",
             "isCustomInput": false
         }]
     }
