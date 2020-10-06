@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_bottom_": {
         "type": "string",
-        "value": "281dp"
+        "value": "96dp"
     },
     "_left_": {
         "type": "string",
@@ -36,7 +36,10 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "ForgotLinkText"
+        "FlexContainer0b4c1d10eb13747",
+        "ForgotLinkText",
+        "Divider",
+        "FingerFaceFlex"
     ],
     "clipbounds": true,
     "containerweight": 100,

@@ -1,13 +1,15 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "1dp"
+        "value": "150dp"
     },
     "_left_": {
         "type": "string",
-        "value": "29dp"
+        "value": "127dp"
     },
     "_margin_": [
         0,
@@ -15,45 +17,38 @@
         0,
         0
     ],
-    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_percent_": true,
-    "_skin_": "sf02f80c8e9847919a290a6aa12913aa",
+    "_skin_": "sbcca07b26464d1cbbe032701af9dec0",
+    "_src_": "icon_faceid.png",
     "_top_": {
         "type": "string",
-        "value": "90dp"
+        "value": "-4dp"
     },
     "_width_": {
         "type": "string",
-        "value": "86.00%"
+        "value": "150dp"
     },
-    "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
-    "clipbounds": true,
     "containerweight": 100,
-    "enablescrolling": true,
-    "id": "Divider",
+    "id": "FaceRecognitionBtn",
+    "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "j8653119617f40a594c865002811d124",
-    "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "ForgotLinkFlex",
+    "kuid": "j47680c546d3437b9a4a2c36e9db338e",
+    "name": "kony.ui.Image2",
+    "parent": "FingerFaceFlex",
     "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
-    "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
     "zindex": 1
 }

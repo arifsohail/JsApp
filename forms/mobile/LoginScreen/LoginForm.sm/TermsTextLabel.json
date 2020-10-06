@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "395dp"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s32ea044f37647e99583c0329c98e528",
-    "_text_": "Forgot Username and/or Password",
+    "_skin_": "sfa27edf31be4662bc5f813f71d8c37c",
+    "_text_": "Terms",
     "_top_": {
         "type": "string",
-        "value": "31dp"
+        "value": "69dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -41,9 +41,8 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 5,
-    "id": "ForgotLinkText",
-    "ide_onTouchStart": "AS_Label_d2a095ff61b34813976ac20b908ee8ee",
+    "contentalignment": 4,
+    "id": "TermsTextLabel",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,9 +56,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fb463834e11945a9bbf816daab694866",
+    "kuid": "b03d58656fe0483d94dd8dd1a8973dfb",
     "name": "kony.ui.Label",
-    "parent": "ForgotLinkFlex",
+    "parent": "TermsFlex",
     "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

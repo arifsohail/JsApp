@@ -36,22 +36,20 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "BackgroundBanner",
-        "LoginLabelFlex",
-        "LoginContainer",
-        "BottomBarContainer"
+        "LocateIcon",
+        "LocateTextLabel"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "LoginFlex",
+    "id": "LocateFlex",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f1b5e466e9f54d5981d703663cf2b6a7",
+    "kuid": "ce322426b5784d8ca1692af55a5ae165",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "LoginForm",
+    "parent": "BottomBarContainer",
     "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -59,6 +57,5 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 1
 }

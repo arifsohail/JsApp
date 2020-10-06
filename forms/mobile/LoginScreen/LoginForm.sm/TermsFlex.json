@@ -36,22 +36,20 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "BackgroundBanner",
-        "LoginLabelFlex",
-        "LoginContainer",
-        "BottomBarContainer"
+        "TermsTextLabel",
+        "TermsIcon"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "LoginFlex",
+    "id": "TermsFlex",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f1b5e466e9f54d5981d703663cf2b6a7",
+    "kuid": "g1ac3bba17744972af78ab2d9b9f3b2a",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "LoginForm",
+    "parent": "BottomBarContainer",
     "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -59,6 +57,5 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 1
 }

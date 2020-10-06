@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "220dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "110dp"
     },
     "_margin_": [
         0,
@@ -26,32 +26,26 @@
     "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "164dp"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "BackgroundBanner",
-        "LoginLabelFlex",
-        "LoginContainer",
-        "BottomBarContainer"
-    ],
+    "children": [],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "LoginFlex",
+    "id": "FlexContainer0b4c1d10eb13747",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f1b5e466e9f54d5981d703663cf2b6a7",
+    "kuid": "a8902974a272426fa17774a77d96881e",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "LoginForm",
+    "parent": "ForgotLinkFlex",
     "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

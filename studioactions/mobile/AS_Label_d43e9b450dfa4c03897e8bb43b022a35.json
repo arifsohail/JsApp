@@ -1,0 +1,30 @@
+{
+    "AS_Label_d43e9b450dfa4c03897e8bb43b022a35": {
+        "id": "AS_Label_d43e9b450dfa4c03897e8bb43b022a35",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_haa1da1c8ddd4cd384c361455b9ea564",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "LoginForm",
+            "formKUID": "c35f3df6889f470381c6c7d82e58a1b1",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "LoginScreen",
+            "isCustomInput": false
+        }]
+    }
+}
