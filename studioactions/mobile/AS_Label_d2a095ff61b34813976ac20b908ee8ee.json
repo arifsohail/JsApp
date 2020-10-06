@@ -1,0 +1,43 @@
+{
+    "AS_Label_d2a095ff61b34813976ac20b908ee8ee": {
+        "id": "AS_Label_d2a095ff61b34813976ac20b908ee8ee",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "RegistrationForm1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ca69f715d5d6457097200c547b57bb26"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_cfb39fe28f354f929e01198e31a8d2c4",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "hello",
+            "yesLabel": "hello",
+            "noLabel": "hello",
+            "alertIcon": null,
+            "alertMessage": "this is a a",
+            "messageType": "constant",
+            "alertHandler": null,
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}
