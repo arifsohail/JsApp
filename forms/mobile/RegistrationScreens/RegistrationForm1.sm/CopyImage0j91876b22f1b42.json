@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "25%"
+        "value": "50%"
     },
     "_margin_": [
         0,
@@ -35,15 +35,15 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "id": "step2Img",
+    "id": "CopyImage0j91876b22f1b42",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "gaf6ee59964146b2ba61837a7292537b",
+    "kuid": "a143da635b6d4278a6cb9cefbe6ba4fb",
     "name": "kony.ui.Image2",
-    "parent": "StepImagesContainer",
+    "parent": "FlexContainer0d989ea3bc76c45",
     "pf": "RegistrationForm1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

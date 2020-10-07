@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "60dp"
+        "value": "70dp"
     },
     "_left_": {
         "type": "string",
@@ -30,7 +30,7 @@
     "_skin_": "s725a1dd5adb4b4db88ff3e8d8c6f80a",
     "_top_": {
         "type": "string",
-        "value": "142dp"
+        "value": "120dp"
     },
     "allboxes": [],
     "autogrowmode": 0,

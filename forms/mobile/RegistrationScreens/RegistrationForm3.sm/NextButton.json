@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8d45adb2bac40598588acfe44fbe0b8",
+    "_text_": "Next",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "psp": {}
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "pressedSkin": "s6bf3ddcfca34859b5f72ce78d0be58f"
+    },
+    "displaytext": true,
+    "focusskin": "s3d1f038e0524aeab0855dc64c98273f",
+    "id": "NextButton",
+    "ide_onClick": "AS_Button_ae380dd2b1e44e3d967651f2f1548c4c",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "aa82ea24a1684271a81ab1b0084e0e70",
+    "name": "kony.ui.Button",
+    "parent": "NextButtonContainer",
+    "pf": "RegistrationForm3",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

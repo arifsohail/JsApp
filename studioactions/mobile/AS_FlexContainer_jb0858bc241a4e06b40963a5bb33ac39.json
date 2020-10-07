@@ -1,0 +1,42 @@
+{
+    "AS_FlexContainer_jb0858bc241a4e06b40963a5bb33ac39": {
+        "id": "AS_FlexContainer_jb0858bc241a4e06b40963a5bb33ac39",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY___ibc33b668d714d05b3da09564900a6b5",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "RegistrationForm4",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "f6b72daf40684fdcb505f107caff7949",
+            "widgetKUID": "i231fb1190bd466f977f065ce54a80c7",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY___dbb824d589b34d43b673b7985485669a",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "RegistrationForm4",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "f6b72daf40684fdcb505f107caff7949",
+            "widgetKUID": "c3ab90b19eb44a20accd69f4ad64fc44",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all"
+        }]
+    }
+}

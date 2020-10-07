@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
@@ -50,6 +50,7 @@
     "isvisible": true,
     "keyboardtype": "A",
     "kuid": "a660b7a70b014afea3bd16ee58c55daa",
+    "maxtextlength": "",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "parent": "ValueFieldFlex",

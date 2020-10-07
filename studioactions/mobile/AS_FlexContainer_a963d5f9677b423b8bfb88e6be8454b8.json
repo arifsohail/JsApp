@@ -1,0 +1,55 @@
+{
+    "AS_FlexContainer_a963d5f9677b423b8bfb88e6be8454b8": {
+        "id": "AS_FlexContainer_a963d5f9677b423b8bfb88e6be8454b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "RegistrationForm3",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e793efb01c404e318471dfcb11ebafbc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__e63e7004b6bd4a07b05b1001ee5b1a54",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "RegistrationForm3",
+            "widgetId": "EnabledButtonContainer",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "e793efb01c404e318471dfcb11ebafbc",
+            "widgetKUID": "hd17ab4bf8df4323a908b26f59d258e1",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.EnabledButtonContainer"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__fcc089358f8e49b7a8f75f14a875e1ec",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "RegistrationForm3",
+            "widgetId": "DisabledButtonContainer",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "e793efb01c404e318471dfcb11ebafbc",
+            "widgetKUID": "b0d2c14ad31742a6bae0b6becd572721",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.DisabledButtonContainer"
+        }]
+    }
+}

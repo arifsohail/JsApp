@@ -45,7 +45,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "Pixel2",
+    "device": "Pixel",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "RegistrationForm2",
@@ -100,12 +100,12 @@
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "android",
-    "prevDevice": "iPhone11",
+    "prevDevice": "Pixel3",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_Pixel2",
+    "shellCSS": "and_Pixel",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

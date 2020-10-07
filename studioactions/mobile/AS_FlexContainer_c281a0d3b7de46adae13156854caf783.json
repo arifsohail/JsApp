@@ -1,0 +1,54 @@
+{
+    "AS_FlexContainer_c281a0d3b7de46adae13156854caf783": {
+        "id": "AS_FlexContainer_c281a0d3b7de46adae13156854caf783",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "RegistrationForm3",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e793efb01c404e318471dfcb11ebafbc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__ef3dde745d0c4d3dbc855fed20dcaea7",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "RegistrationForm3",
+            "widgetId": "EnabledButtonContainer",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "e793efb01c404e318471dfcb11ebafbc",
+            "widgetKUID": "hd17ab4bf8df4323a908b26f59d258e1",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.EnabledButtonContainer"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__edbd43a6e4ac49458bf67489f6725ba7",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "RegistrationForm3",
+            "widgetId": "DisabledButtonContainer",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "e793efb01c404e318471dfcb11ebafbc",
+            "widgetKUID": "b0d2c14ad31742a6bae0b6becd572721",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.DisabledButtonContainer"
+        }]
+    }
+}
