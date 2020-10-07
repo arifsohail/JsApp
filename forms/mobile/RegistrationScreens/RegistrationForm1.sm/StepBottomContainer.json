@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "children": [
         "TextContainer",
-        "FlexContainer0d989ea3bc76c45"
+        "StepImagesContainer"
     ],
     "clipbounds": true,
     "containerweight": 100,

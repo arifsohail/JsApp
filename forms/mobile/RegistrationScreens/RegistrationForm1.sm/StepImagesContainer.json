@@ -2,12 +2,12 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_bottom_": {
-        "type": "string",
-        "value": "0.00%"
+        "type": "number",
+        "value": "0"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "37%"
     },
     "_margin_": [
         0,
@@ -25,39 +25,34 @@
     "_percent_": true,
     "_right_": {
         "type": "string",
-        "value": "0%"
+        "value": "37%"
     },
     "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
     "_top_": {
         "type": "string",
-        "value": "25%"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
+        "value": "50%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "StepBottomContainer",
-        "OtpSentTextContainer",
-        "OTPFieldLabel",
-        "OTPFieldsContainer",
-        "ResendContainer"
+        "step1Img",
+        "step2Img",
+        "step3Img",
+        "step4Img"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "LoginContainer",
+    "id": "StepImagesContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a4c7e76ebcda434fbdb7ce98375ad269",
+    "kuid": "a92038582c674282a3d2abe8754c8b94",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "LoginForm2",
-    "pf": "LoginForm2",
+    "parent": "StepBottomContainer",
+    "pf": "RegistrationForm1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

@@ -362,6 +362,14 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
+    "kfAppInfo": {
+        "26c6e6bc-04b9-42c9-ae11-9ed276a69a3e": {
+            "appName": "JsApp",
+            "baseId": "c854b1c6-2ac6-4123-b1d8-86cfd2772e4f",
+            "id": "c854b1c6-2ac6-4123-b1d8-86cfd2772e4f",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "9.0.12",
     "lastmodifiedtime": "1601642222288",
     "location": "false",
