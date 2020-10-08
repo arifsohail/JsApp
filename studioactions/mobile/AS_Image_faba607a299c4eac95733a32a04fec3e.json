@@ -1,0 +1,24 @@
+{
+    "AS_Image_faba607a299c4eac95733a32a04fec3e": {
+        "id": "AS_Image_faba607a299c4eac95733a32a04fec3e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "RegistrationForm3",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e793efb01c404e318471dfcb11ebafbc"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

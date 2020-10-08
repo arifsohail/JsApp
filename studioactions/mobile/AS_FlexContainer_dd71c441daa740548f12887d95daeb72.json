@@ -1,0 +1,36 @@
+{
+    "AS_FlexContainer_dd71c441daa740548f12887d95daeb72": {
+        "id": "AS_FlexContainer_dd71c441daa740548f12887d95daeb72",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "RegistrationForm2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e722286e7fc24b8e948775de14e9e55d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__c3c7ac1aa0d14128a8d43a955a06887f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "RegistrationForm3",
+            "formKUID": "e793efb01c404e318471dfcb11ebafbc",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "RegistrationScreens",
+            "isCustomInput": false
+        }]
+    }
+}

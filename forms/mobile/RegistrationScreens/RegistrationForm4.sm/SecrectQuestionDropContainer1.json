@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "220dp"
+        "value": "85dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0.00%"
+        "value": "6.84%"
     },
     "_margin_": [
         0,
@@ -25,32 +25,31 @@
     "_percent_": true,
     "_right_": {
         "type": "string",
-        "value": "0%"
+        "value": "7.06%"
     },
-    "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
+    "_skin_": "s094ed3f15044e80906c087debbaf6a6",
     "_top_": {
         "type": "string",
-        "value": "187dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
+        "value": "40dp"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "SecretQuestion1"
+    ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexContainer0eeba71bde49f42",
+    "id": "SecrectQuestionDropContainer1",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ia9d6fc81e1e4f50958650a66252288d",
+    "kuid": "jd03639b4f2a4659a629417fd08c4b89",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationForm3",
-    "pf": "RegistrationForm3",
+    "parent": "RegistrationFieldsContainer",
+    "pf": "RegistrationForm4",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

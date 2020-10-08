@@ -32,7 +32,7 @@
     "children": [
         "BackgroundBanner",
         "RegistrationLabelFlex",
-        "FlexContainer0eeba71bde49f42"
+        "RegistrationFieldsContainer"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -45,7 +45,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "GalaxyS8Plus",
+    "device": "GalaxyS8",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "RegistrationForm3",
@@ -100,12 +100,12 @@
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "android",
-    "prevDevice": "GalaxyS5",
+    "prevDevice": "GalaxyS7",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_GalaxyS8Plus",
+    "shellCSS": "and_GalaxyS8",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

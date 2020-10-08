@@ -1,0 +1,24 @@
+{
+    "AS_Image_i18404fe5e5045f5beed1aa98846c146": {
+        "id": "AS_Image_i18404fe5e5045f5beed1aa98846c146",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "contextObj": {
+            "name": "RegistrationForm3",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e793efb01c404e318471dfcb11ebafbc"
+        },
+        "language": "js",
+        "actions": []
+    }
+}
