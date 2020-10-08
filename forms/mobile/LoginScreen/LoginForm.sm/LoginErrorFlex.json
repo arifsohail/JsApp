@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "95dp"
+        "value": "10%"
     },
     "_left_": {
         "type": "string",
@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
+    "_skin_": "sb8269b426d94ca6aee9a9c82ffa54bc",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -36,20 +36,20 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "LabelTextOTP"
+        "IncorrectUserIdLabel"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "OtpSentTextContainer",
+    "id": "LoginErrorFlex",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "afc58a97db584c4580187638bfc0cbd9",
+    "kuid": "bcdf18dc0e4140a385412470dc59989e",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "LoginContainer",
-    "pf": "LoginForm2",
+    "parent": "LoginFlex",
+    "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

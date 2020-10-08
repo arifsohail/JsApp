@@ -1,0 +1,73 @@
+{
+    "AS_Button_b6ba08e332dc4c66b965ebd5ef0dc796": {
+        "id": "AS_Button_b6ba08e332dc4c66b965ebd5ef0dc796",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "LoginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c35f3df6889f470381c6c7d82e58a1b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "_e4d13e5caeeb4b13a0b5982ebbcf37e5",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "LoginForm.LoginFlex.LoginContainer.UserIdFlex.UserIdTextBox.text.length == 0"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "_f4ad955e6caa4b6783ae6e2129588efa",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__bf7be727e5354a109c05c56c2349e68f",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "LoginForm",
+            "widgetId": "LoginErrorFlex",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "c35f3df6889f470381c6c7d82e58a1b1",
+            "widgetKUID": "bcdf18dc0e4140a385412470dc59989e",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": "_f4ad955e6caa4b6783ae6e2129588efa",
+            "callbackType": null,
+            "widgetPath": "this.view.LoginErrorFlex"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__e19dc7c1a0334485add04cb2ffd00c6d",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "LoginForm",
+            "widgetId": "LoginErrorFlex",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "c35f3df6889f470381c6c7d82e58a1b1",
+            "widgetKUID": "bcdf18dc0e4140a385412470dc59989e",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": "_e4d13e5caeeb4b13a0b5982ebbcf37e5",
+            "callbackType": null,
+            "widgetPath": "this.view.LoginErrorFlex"
+        }]
+    }
+}

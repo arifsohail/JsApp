@@ -22,8 +22,8 @@
         0,
         0
     ],
-    "_skin_": "s8eef2bacfa048a19abc4a5c4c54221b",
-    "_text_": "Resend Code",
+    "_skin_": "s20640f17b5543358724882eb085ada6",
+    "_text_": "Incorrect User ID",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "ResendText",
+    "id": "IncorrectUserIdLabel",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b6c8beee397c49c69a80d4108821c12b",
+    "kuid": "c76d7f15a5a346bca4dda97b39792cf9",
     "name": "kony.ui.Label",
-    "parent": "ResendContainer",
-    "pf": "LoginForm2",
+    "parent": "LoginErrorFlex",
+    "pf": "LoginForm",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

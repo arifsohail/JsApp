@@ -39,7 +39,8 @@
         "BackgroundBanner",
         "LoginLabelFlex",
         "LoginContainer",
-        "BottomBarContainer"
+        "BottomBarContainer",
+        "LoginErrorFlex"
     ],
     "clipbounds": true,
     "containerweight": 100,
