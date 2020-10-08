@@ -1,0 +1,62 @@
+{
+    "AS_Form_a3ef5b6da5504794867755b9fdfcb82e": {
+        "id": "AS_Form_a3ef5b6da5504794867755b9fdfcb82e",
+        "type": "ACTION_SEQUENCE",
+        "name": "LoginFormValidate",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "LoginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c35f3df6889f470381c6c7d82e58a1b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "_h65fac55506a4e968b6e7485b3db0bf4",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "this.view.UserIdTextBox.text == \"\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "_c5813bb2390c4368bb9f11545448f96e",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "INVOKE_FUNCTION__ie93bc4513b9458eb1ebc15b6c6d781d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "enableContinueBtn",
+            "display": "enableContinueBtn",
+            "inputparams": [],
+            "parentId": "_c5813bb2390c4368bb9f11545448f96e",
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__he50052c31644a36a63a5a65a5d22591",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "disableContinueBtn",
+            "display": "disableContinueBtn",
+            "inputparams": [],
+            "parentId": "_h65fac55506a4e968b6e7485b3db0bf4",
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -4,11 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
-        "value": "6.97%"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
     "_placeholder_": "Enter User ID",
     "_right_": {
         "type": "string",
-        "value": "6.97%"
+        "value": "0%"
     },
     "_skin_": "s3b0298e204446048b7c2ea4bb9f4c6f",
     "_text_": "",
@@ -45,6 +45,7 @@
     "contentalignment": 4,
     "focusskin": "scf410b2fdc44bb6bd0fa7e4a3cf53dc",
     "id": "UserIdTextBox",
+    "ide_onTextChange": "AS_TextField_jf4603baf58948d1aed0b28ba6dd9867",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

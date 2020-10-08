@@ -1,0 +1,61 @@
+{
+    "AS_Form_h461fd14344f4599909d166db331632e": {
+        "id": "AS_Form_h461fd14344f4599909d166db331632e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "LoginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c35f3df6889f470381c6c7d82e58a1b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "_d63bc33e23064c63baa077f8afa57e69",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "this.view.UserIdTextBox.text == \"\" || this.view.PasswordTextBox.text == \"\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "_g110b31f31434bc48f71d703bd0a6191",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "INVOKE_FUNCTION__c999486fe18d4467ab1222fb2f9a1cfb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "enableContinueBtn",
+            "display": "enableContinueBtn",
+            "inputparams": [],
+            "parentId": "_g110b31f31434bc48f71d703bd0a6191",
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__a1ec85e8977f4ef0a72d29cfeaf8f6bc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "disableContinueBtn",
+            "display": "disableContinueBtn",
+            "inputparams": [],
+            "parentId": "_d63bc33e23064c63baa077f8afa57e69",
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

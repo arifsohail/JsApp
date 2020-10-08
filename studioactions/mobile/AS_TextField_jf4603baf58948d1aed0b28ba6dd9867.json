@@ -1,0 +1,64 @@
+{
+    "AS_TextField_jf4603baf58948d1aed0b28ba6dd9867": {
+        "id": "AS_TextField_jf4603baf58948d1aed0b28ba6dd9867",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "LoginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c35f3df6889f470381c6c7d82e58a1b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "_f1e3c51024a84e1ca6dbef587c66fdd5",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "this.view.UserIdTextBox.text == \"\" || this.view.PasswordTextBox.text == \"\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "_b295b965ca7f44679b4797f28dd8da64",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "INVOKE_FUNCTION__e6f07727a5d745b3b60075b81c4741c8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "enableContinueBtn",
+            "display": "enableContinueBtn",
+            "inputparams": [],
+            "parentId": "_b295b965ca7f44679b4797f28dd8da64",
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__ff47e50fb1904e0ca4f51782eb0b1955",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "disableContinueBtn",
+            "display": "disableContinueBtn",
+            "inputparams": [],
+            "parentId": "_f1e3c51024a84e1ca6dbef587c66fdd5",
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}
