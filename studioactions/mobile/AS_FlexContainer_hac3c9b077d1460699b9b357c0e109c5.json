@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_hac3c9b077d1460699b9b357c0e109c5": {
+        "id": "AS_FlexContainer_hac3c9b077d1460699b9b357c0e109c5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "RegistrationForm4",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f6b72daf40684fdcb505f107caff7949"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__a4c781b265d142728528c00f1421c584",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "SecretQuestions",
+            "formKUID": "a923354dc0dd47b09ab56a54eb6202b7",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true,
+            "package": "RegistrationScreens",
+            "isCustomInput": false
+        }]
+    }
+}

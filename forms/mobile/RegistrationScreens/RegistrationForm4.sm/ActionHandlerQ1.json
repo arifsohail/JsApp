@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "85dp"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
-        "value": "7.38%"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -23,33 +23,31 @@
         0
     ],
     "_percent_": true,
-    "_right_": {
-        "type": "string",
-        "value": "6.51%"
-    },
-    "_skin_": "s094ed3f15044e80906c087debbaf6a6",
+    "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
     "_top_": {
         "type": "string",
-        "value": "160dp"
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "SecretQuestionDrop2",
-        "ActionHandlerQ2"
-    ],
+    "children": [],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "SecretQuestionDropContainer2",
+    "id": "ActionHandlerQ1",
+    "ide_onClick": "AS_FlexContainer_hac3c9b077d1460699b9b357c0e109c5",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h4c62241657244ff842a71947923c92c",
+    "kuid": "h8f9cc733b154be7ac525e9eb4693bb1",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationFieldsContainer",
+    "parent": "SecrectQuestionDropContainer1",
     "pf": "RegistrationForm4",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -58,5 +56,5 @@
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 2
 }

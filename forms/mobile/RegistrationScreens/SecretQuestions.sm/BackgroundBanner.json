@@ -1,13 +1,15 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "85dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "7.38%"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -15,7 +17,7 @@
         0,
         0
     ],
-    "_orientation_": 6,
+    "_orientation_": 1,
     "_padding_": [
         0,
         0,
@@ -23,40 +25,37 @@
         0
     ],
     "_percent_": true,
-    "_right_": {
-        "type": "string",
-        "value": "6.51%"
-    },
-    "_skin_": "s094ed3f15044e80906c087debbaf6a6",
+    "_skin_": "sf95cd502f44404f962cc80c0e007bc0",
     "_top_": {
         "type": "string",
-        "value": "160dp"
+        "value": "0dp"
     },
-    "allboxes": [],
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "SecretQuestionDrop2",
-        "ActionHandlerQ2"
-    ],
     "clipbounds": true,
-    "containerweight": 100,
+    "containerweight": 0,
+    "data": {},
     "enablescrolling": true,
-    "id": "SecretQuestionDropContainer2",
+    "id": "BackgroundBanner",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h4c62241657244ff842a71947923c92c",
+    "kuid": "f5a4e2135ecf4712887096fe2d897730",
     "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationFieldsContainer",
-    "pf": "RegistrationForm4",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "SecretQuestionContainer",
+    "pf": "SecretQuestions",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
+    "sourceUserWidget": "d7413094b08342d8881c8756f43506f7",
+    "wType": "UserWidgetInstance",
     "zindex": 1
 }

@@ -35,8 +35,10 @@
     "android": {
         "psp": {
             "applySkinsToPopup": false,
-            "placeholderSkin": "s5161d55d9224b54816d8d4cce0bdd2d"
-        }
+            "placeholderSkin": "s5161d55d9224b54816d8d4cce0bdd2d",
+            "popupIcon": "dropdown_caret_down.png"
+        },
+        "viewType": 4
     },
     "applyskinstopopup": false,
     "canUpdateUI": true,
@@ -72,6 +74,7 @@
     "paddinginpixel": false,
     "parent": "TypeIdContainer",
     "pf": "RegistrationForm1",
+    "popupicon": "dropdown_caret_down.png",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "selectedkey": null,
@@ -79,11 +82,6 @@
     "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
-    "viewconfig": {
-        "toggleViewConfig": {
-            "viewStyle": 0
-        }
-    },
     "viewtype": 0,
     "wType": "ListBox",
     "zindex": 1

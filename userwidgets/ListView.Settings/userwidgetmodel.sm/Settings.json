@@ -1,13 +1,17 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": ""
+    },
     "_height_": {
         "type": "string",
-        "value": "85dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "7.38%"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -25,38 +29,43 @@
     "_percent_": true,
     "_right_": {
         "type": "string",
-        "value": "6.51%"
+        "value": ""
     },
-    "_skin_": "s094ed3f15044e80906c087debbaf6a6",
+    "_skin_": "s590560694e94f208ada68fc8fb4e1a8",
     "_top_": {
         "type": "string",
-        "value": "160dp"
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": ""
+    },
+    "centery": {
+        "type": "string",
+        "value": ""
+    },
     "children": [
-        "SecretQuestionDrop2",
-        "ActionHandlerQ2"
+        "segForm"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "SecretQuestionDropContainer2",
+    "id": "Settings",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h4c62241657244ff842a71947923c92c",
+    "kuid": "d9a35d1429bd4489b7fac0401f0e775e",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "RegistrationFieldsContainer",
-    "pf": "RegistrationForm4",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "parent": "userwidgetmodel",
+    "pf": "userwidgetmodel",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 1
 }

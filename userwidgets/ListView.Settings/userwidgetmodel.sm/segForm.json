@@ -1,0 +1,242 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "13",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segForm",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "c5e0a020794844e0ae98c61f14fdea25",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            [
+                {
+                    "lblHeader": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Section Title"
+                    }
+                },
+                [
+                    {
+                        "img": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": ""
+                        },
+                        "lblNormal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Advanced Setting"
+                        },
+                        "lblOff": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    },
+                    {
+                        "img": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": ""
+                        },
+                        "lblNormal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Hotspot"
+                        },
+                        "lblOff": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Off"
+                        }
+                    },
+                    {
+                        "img": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymp_sl_switch_normal.png"
+                        },
+                        "lblNormal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Bluetooth"
+                        },
+                        "lblOff": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "lblHeader": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Section Title"
+                    }
+                },
+                [
+                    {
+                        "img": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": ""
+                        },
+                        "lblNormal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Mail"
+                        },
+                        "lblOff": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    },
+                    {
+                        "img": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": ""
+                        },
+                        "lblNormal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Image Gallery"
+                        },
+                        "lblOff": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Off"
+                        }
+                    },
+                    {
+                        "img": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "konymp_sl_switch_active.png"
+                        },
+                        "lblNormal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Map Setting"
+                        },
+                        "lblOff": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    },
+                    {
+                        "img": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": ""
+                        },
+                        "lblNormal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Time Setting"
+                        },
+                        "lblOff": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    }
+                ]
+            ]
+        ],
+        "rowTemplateId": "jb91f01a85114740a414a57b367dc890",
+        "rowtemplate": "flxSegNormal",
+        "sectionHeaderTemplateId": "ca6c4752793d46ca83eca0c235ec81cc",
+        "sectionheadertemplate": "flxSegHeader",
+        "widgetdatamap": {
+            "flxImg": "flxImg",
+            "flxSegHeader": "flxSegHeader",
+            "flxSegNormal": "flxSegNormal",
+            "flxSep": "flxSep",
+            "img": "img",
+            "lblHeader": "lblHeader",
+            "lblNormal": "lblNormal",
+            "lblOff": "lblOff"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "Settings",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 3,
+    "rowfocusskin": "sd4c79d009a1434dab8fd04e395bd22b",
+    "rowskin": "s391faeefbe04f1a831563e256ffd3ed",
+    "rowtemplate": "flxSegNormal",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionheaderskin": "sbeb84c783814d6a91ab50ffeed693d7",
+    "sectionheadertemplate": "flxSegHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "c8c7cc00",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxImg": "flxImg",
+        "flxSegHeader": "flxSegHeader",
+        "flxSegNormal": "flxSegNormal",
+        "flxSep": "flxSep",
+        "img": "img",
+        "lblHeader": "lblHeader",
+        "lblNormal": "lblNormal",
+        "lblOff": "lblOff"
+    },
+    "zindex": 1
+}

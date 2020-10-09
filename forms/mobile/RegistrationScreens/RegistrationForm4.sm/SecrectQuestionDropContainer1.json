@@ -36,12 +36,14 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "SecretQuestion1"
+        "SecretQuestion1",
+        "ActionHandlerQ1"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
     "id": "SecrectQuestionDropContainer1",
+    "ide_onTouchStart": "AS_FlexContainer_i60926f693f2461bbc1cef08367b05b0",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

@@ -1,0 +1,24 @@
+{
+    "AS_Segment_ie2f154bbec749d6aa887f16ee053e47": {
+        "id": "AS_Segment_ie2f154bbec749d6aa887f16ee053e47",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "SecretQuestions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a923354dc0dd47b09ab56a54eb6202b7"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

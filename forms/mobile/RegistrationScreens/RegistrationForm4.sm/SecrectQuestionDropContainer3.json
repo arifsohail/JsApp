@@ -36,7 +36,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "SecretQuestionsDrop3"
+        "SecretQuestionsDrop3",
+        "ActionHandlerQ3"
     ],
     "clipbounds": true,
     "containerweight": 100,

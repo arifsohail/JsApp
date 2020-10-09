@@ -1,0 +1,45 @@
+{
+    "AS_FlexContainer_dd2bec55f4564fb18eece557fe6cc599": {
+        "id": "AS_FlexContainer_dd2bec55f4564fb18eece557fe6cc599",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY___hc4a707f387942cf84fdd33a1ca36f37",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "FBox0h69c04d407874d",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "hcb28e9988ba434ab0c94b7792a788da",
+            "widgetKUID": "cf57f6ce641a40f29640b73626befda2",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY___ddb190a0ff494be8bbeb452505c78388",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "FBox0h69c04d407874d",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "hcb28e9988ba434ab0c94b7792a788da",
+            "widgetKUID": "i5449ec4be2941f085f2d99dce5b58f5",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all"
+        }]
+    }
+}

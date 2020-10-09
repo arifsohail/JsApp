@@ -1,0 +1,18 @@
+{
+    "AS_ListBox_b9b73e27dde34e6c9aa023e0038d23be": {
+        "id": "AS_ListBox_b9b73e27dde34e6c9aa023e0038d23be",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "RegistrationForm4",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f6b72daf40684fdcb505f107caff7949"
+        },
+        "language": "js",
+        "actions": []
+    }
+}
